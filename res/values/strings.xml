@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<!-- GENERAL -->
     <string name="app_name">Asteroid</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-
+ 
+<!-- MAIN ACTIVITY -->
+	<string name="start">Start</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    
 </resources>

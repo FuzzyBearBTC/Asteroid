@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">Asteroïd</string>
+<!-- GENERAL -->
+    <string name="app_name">Astéroïd</string>
     <string name="hello_world">Bonjour monde!</string>
     <string name="menu_settings">Paramètres</string>
-    
+<!-- MAIN ACTIVITY -->
+	<string name="start">Commencer</string>
+    <string name="settings">Paramètres</string>
+    <string name="about">À propos</string>
+    <string name="exit">Sortir</string>  
 </resources>
