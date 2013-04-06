@@ -1,11 +1,28 @@
 <resources>
-<!-- GENERAL -->
+
+    <!-- GENERAL -->
     <string name="app_name">Astéroïd</string>
     <string name="hello_world">Bonjour monde!</string>
     <string name="menu_settings">Paramètres</string>
-<!-- MAIN ACTIVITY -->
-	<string name="start">Commencer</string>
+    
+    <!-- MAIN ACTIVITY -->
+    <string name="start">Commencer</string>
     <string name="settings">Paramètres</string>
     <string name="about">À propos</string>
-    <string name="exit">Sortir</string>  
+    <string name="exit">Sortir</string>
+    
+    <!-- ABOUT -->
+    <string name="about_text">Cette application a été développée comme 
+        exemple dans un cours d\'Android</string>
+
+    <!-- PREFERENCES -->
+    <string name="music">Musique</string>
+    <string name="music_sumary">La musique de fond</string>
+    <string name="music_title">Musique</string>
+    <string name="graphic">Graphiques</string>
+    <string name="graphic_sumary">Choisir le type de graphiques</string>
+    <string name="graphic_title">Types de graphiques</string>
+    <string name="fragments">Fragments</string>
+    <string name="fragments_sumary">Le nombre de morceaux de l\'astéroïd</string>
+    <string name="fragments_title">Nombre de fragments</string>
 </resources>

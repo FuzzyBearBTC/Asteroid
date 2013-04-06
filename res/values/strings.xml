@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-<!-- GENERAL -->
+    <!-- GENERAL -->
     <string name="app_name">Asteroid</string>
     <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
- 
-<!-- MAIN ACTIVITY -->
-	<string name="start">Start</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="start">Start</string>
     <string name="settings">Settings</string>
     <string name="about">About</string>
     <string name="exit">Exit</string>
-    
+    <string name="title_activity_about">About</string>
+
+    <!-- ABOUT -->
+    <string name="about_text">Este programa ha sido desarrollado como ejemplo en 
+        el curso de Android para demostrar cómo se pueden lanzar nuevas actividades 
+        desde la actividad principal.</string>
+
+    <!-- PREFERENCES -->
+    <string name="music">Music</string>
+    <string name="music_sumary">The music in background</string>
+    <string name="music_title">Play music</string>
+    <string name="graphic">Graphics</string>
+    <string name="graphic_sumary">Chose the graphics types</string>
+    <string name="graphic_title">Graphics types</string>
+    <string name="fragments">Fragments</string>
+    <string name="fragments_sumary">In how many fragments the asteroid will be divided</string>
+    <string name="fragments_title">Number of fragments</string>
+    <string name="menu_settings">Settings</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="title_activity_game">Game</string>
+
 </resources>

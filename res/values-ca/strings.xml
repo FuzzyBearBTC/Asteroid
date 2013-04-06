@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- GENERAL -->
-    <string name="app_name">Asteroid</string>
+
+    <!-- GENERAL -->
+    <string name="app_name">Asteroide</string>
     <string name="hello_world">Hola mon!</string>
     <string name="menu_settings">Paràmetres</string>
-<!-- MAIN ACTIVITY -->
-	<string name="start">Començar</string>
+    
+    <!-- MAIN ACTIVITY -->
+    <string name="start">Començar</string>
     <string name="settings">Paràmetres</string>
     <string name="about">Sobre</string>
     <string name="exit">Sortir</string>
+    
+    <!-- ABOUT -->
+    <string name="about_text">Aquest programa ha sigut desenvolupat com exemple en 
+        el curs d\'Android per demostrar com es pot lençar noves activitats 
+        desde la activitat principal.</string>
+        
+   	<!-- PREFERENCES -->
+    <string name="music">Música</string>
+    <string name="music_sumary">Es reprodueix la música de fond</string>
+    <string name="music_title">Reproduir la música</string>
+    <string name="graphic">Gráfics</string>
+    <string name="graphic_sumary">Es tria la representació dels gráfics</string>
+    <string name="graphic_title">Tipo de gráficos</string>
+    <string name="fragments">Fragments</string>
+    <string name="fragments_sumary">En quants tros es divideix un asteroide</string>
+    <string name="fragments_title">Número de Fragments</string>
+
 </resources>
